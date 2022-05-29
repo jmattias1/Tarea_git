@@ -1,1 +1,1 @@
-console.log("terror");
+console.log("terror", "suspenso");
