@@ -1,7 +1,7 @@
 const persona = [{
-    nombre : 'Maria',
+    nombre : 'Belen',
     edad : 24,
-    profesion : "Programadora "
+    profesion : "Fullstack Node.js "
 },
 {
     nombre : 'Jose',
