@@ -12,11 +12,13 @@ const persona = [{
     nombre : "mati",
     edad : 20,
     profesion : "ninguna"
-},{
+},
+{
     nombre : "juan carlos",
     edad : 99,
     profesion : "malabarista"
-}
+},
+
 ];
 
 console.log(persona);
