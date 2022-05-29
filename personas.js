@@ -12,6 +12,11 @@ const persona = [{
     nombre : "mati",
     edad : 20,
     profesion : "ninguna"
+},
+{
+   nombre : "Damian",
+   edad : 20,
+   profesion : "Empleado de Mac"
 }
 ]
 
